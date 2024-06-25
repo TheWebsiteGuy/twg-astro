@@ -10,8 +10,17 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.11.1",
     "@astrojs/check": "^0.7.0",
+    "@astrojs/markdoc": "^0.11.1",
+    "@astrojs/node": "^8.3.2",
+    "@astrojs/react": "^3.6.0",
+    "@keystatic/astro": "^5.0.0",
+    "@keystatic/core": "^0.5.23",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "astro": "^4.11.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "typescript": "^5.5.2"
   }
 }
